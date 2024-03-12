@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 I'm Anugrah Rai
 
-<!--
-**Rai-zip/Rai-zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Computer Programmer student at Algonquin College, eager to explore and contribute to the world of technology. Currently, I'm actively searching for exciting Co-op positions to apply and enhance my skills.
 
-Here are some ideas to get you started:
+## Skills
+- **Java:** Excelling in object-oriented programming and application development.
+- **Database:** Proficient in both SQL and MongoDB, ensuring efficient and organized data management.
+- **HTML & CSS:** Crafting visually appealing and responsive web pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some projects I've been working on:
+
+- [Project 1](link): Brief description of the project and your role.
+- [Project 2](link): Brief description of the project and your role.
+
+Feel free to explore my repositories for more!
+
+## Let's Connect
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/anugrah-rai)
+- **Email:** Raianugrah2004@gmail.com
+
+I'm always open to collaboration and networking opportunities. If you have any suggestions, questions, or just want to chat about coding, feel free to reach out! 😊
