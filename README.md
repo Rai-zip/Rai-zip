@@ -11,8 +11,8 @@ I'm a passionate Computer Programmer student at Algonquin College, eager to expl
 ## Projects
 Here are some projects I've been working on:
 
-- [Project 1](link): Brief description of the project and your role.
-- [Project 2](link): Brief description of the project and your role.
+- [KRONOKAT](link): Brief description of the project and your role.
+- [WEATHERWIZ](link): Brief description of the project and your role.
 
 Feel free to explore my repositories for more!
 
