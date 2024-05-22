@@ -11,7 +11,7 @@ I'm a passionate Computer Programmer student at Algonquin College, eager to expl
 ## Projects
 Here are some projects I've been working on:
 
-- [KRONOKAT](link): 
+- [KRONOKAT](https://github.com/Rai-zip/Krono-Kat): 
 - [WEATHERWIZ](https://github.com/Rai-zip/WeatherWiz): 
 
 Feel free to explore my repositories for more!
